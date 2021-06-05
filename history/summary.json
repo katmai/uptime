@@ -4,7 +4,7 @@
     "url": "https://www.bioget.com",
     "icon": "https://favicons.githubusercontent.com/www.bioget.com",
     "slug": "bioget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 715,
     "timeMonth": 700,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-05": 0
+    }
   }
 ]
